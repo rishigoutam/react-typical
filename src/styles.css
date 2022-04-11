@@ -1,5 +1,5 @@
 .typicalWrapper::after {
-  content: "|";
+  content: "";
   animation: blink 1s infinite step-start;
 }
 
